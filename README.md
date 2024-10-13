@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satheesh-Baabu
 - 👀 I’m interested in Full Stack web Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React Native
 - 📫 You can reach me at email- satheeshbaabum@gmail.com
 
 <!---
